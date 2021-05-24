@@ -1133,8 +1133,6 @@ Content/Food_Pack_01/Meshes/Food_Fruit_Watermelon_01.uasset
 Content/Food_Pack_01/Meshes/Food_Fruit_Watermelon_01_Crust_01.uasset
 Content/Food_Pack_01/Meshes/Food_Fruit_Watermelon_01_Half_01.uasset
 Content/Food_Pack_01/Meshes/Food_Fruit_Watermelon_01_Slice_01.uasset
-Content/Food_Pack_01/Meshes/Food_Root_Garlic_01.uasset
-Content/Food_Pack_01/Meshes/Food_Root_Garlic_01_Blueprint.uasset
 Content/Food_Pack_01/Meshes/Food_Root_Ginger_01.uasset
 Content/Food_Pack_01/Meshes/Food_Root_Potato_01.uasset
 Content/Food_Pack_01/Meshes/Food_Root_Potato_02.uasset
@@ -1152,9 +1150,6 @@ Content/Food_Pack_01/Meshes/Food_Veg_Cauliflower_01.uasset
 Content/Food_Pack_01/Meshes/Food_Veg_Corn_01.uasset
 Content/Food_Pack_01/Meshes/Food_Veg_Cucumber_01.uasset
 Content/Food_Pack_01/Meshes/Food_Veg_Cucumber_01_Slice_01.uasset
-Content/Food_Pack_01/Meshes/Food_Veg_Onion_Red_01.uasset
-Content/Food_Pack_01/Meshes/Food_Veg_Onion_Red_01_Cut.uasset
-Content/Food_Pack_01/Meshes/Food_Veg_Onion_Red_01_Cut_Blueprint.uasset
 Content/Food_Pack_01/Meshes/Food_Veg_Onion_White_01.uasset
 Content/Food_Pack_01/Meshes/Food_Veg_Onion_Yellow_01.uasset
 Content/Food_Pack_01/Textures/T_Food_Bread_Bagel_01_D.uasset
